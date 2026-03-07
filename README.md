@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://www.acmicpc.net/user/ping378" target="_blank">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" alt="Boj Badge" />
+    <img src="http://mazandi.herokuapp.com/api?handle=ping378&theme=warm" alt="Boj Badge" />
   </a>
 </div>
 
