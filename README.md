@@ -1,12 +1,8 @@
 # Park Dongmyung (LeonVir)
 
 <div align="Left">
-  
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" />
-  <br>
-  
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir" />
-
 </div>
 
 ---
@@ -18,7 +14,7 @@
 
 ### 📫 Contact & Socials
 - 📧 **Email:** [dametime1245@gmail.com](mailto:dametime1245@gmail.com)
-- 💬 **Discord:** `leonpark3619`
+- 💬 **Discord:** `-`
 
 ---
 
