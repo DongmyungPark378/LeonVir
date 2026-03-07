@@ -1,16 +1,26 @@
-## Hi there 👋
+# ## Hi there 👋 I'm Dongmyung Park (LeonVir)
 
-<!--
-**LeonVir/LeonVir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" />
+  <br>
+  
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Robotics Project**
+- 🌱 I’m currently learning **C++ & Algorithm**
+- 💬 Ask me about **Computer Science / Game Dev**
+
+### 📫 Contact & Socials
+- 📧 **Email:** [본인이메일@gmail.com](mailto:본인이메일@gmail.com)
+- 💬 **Discord:** `사용자명#0000` (또는 최신 디스코드 ID)
+
+---
+
+### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
