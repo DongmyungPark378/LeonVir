@@ -5,8 +5,8 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir" alt="Codeforces Stats" />
   </a>
   
-  <a href="https://www.acmicpc.net/user/ping378" target="_blank">
-    <img src="http://mazandi.herokuapp.com/api?handle=ping378&theme=warm" alt="Boj Badge" />
+  <a href="https://solved.ac/profile/ping378" target="_blank">
+    <img src="https://mazandi.herokuapp.com/api?handle=ping378&theme=warm" alt="solved.ac Profile" />
   </a>
 </div>
 
