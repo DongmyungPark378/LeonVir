@@ -1,8 +1,8 @@
 # Park Dongmyung (LeonVir)
 
 <div align="Left">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir" />
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" />
 </div>
 
 ---
