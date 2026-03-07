@@ -1,6 +1,6 @@
-# ## Hi there 👋 I'm Dongmyung Park (LeonVir)
+# Park Dongmyung (LeonVir)
 
-<div align="center">
+<div align="Left">
   
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" />
   <br>
@@ -12,13 +12,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Robotics Project**
-- 🌱 I’m currently learning **C++ & Algorithm**
-- 💬 Ask me about **Computer Science / Game Dev**
+- 🔭 I’m currently studing on **University of Manchester**
+- 🌱 I’m currently learning **AI**
+- 💬 Ask me about **Computer Science / Game Dev / AI / Robotics**
 
 ### 📫 Contact & Socials
-- 📧 **Email:** [본인이메일@gmail.com](mailto:본인이메일@gmail.com)
-- 💬 **Discord:** `사용자명#0000` (또는 최신 디스코드 ID)
+- 📧 **Email:** [dametime1245@gmail.com](mailto:dametime1245@gmail.com)
+- 💬 **Discord:** `leonpark3619`
 
 ---
 
