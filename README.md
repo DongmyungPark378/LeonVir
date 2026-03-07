@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://solved.ac/profile/ping378" target="_blank">
-    <img src="https://mazandi.herokuapp.com/api?handle=ping378&theme=warm" alt="solved.ac Profile" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" alt="Boj Badge" />
   </a>
 </div>
 
