@@ -7,9 +7,9 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=LeonVir3" alt="Codeforces Stats" />
 </a>
 
-#### 🥈 Baekjoon (solved.ac)
-<a href="https://solved.ac/profile/ping378" target="_blank">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ping378" alt="Boj Badge" />
+#### 🥇 LeetCode Stats
+<a href="https://leetcode.com/u/LeonVir/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/LeonVir?theme=dark&font=Istok%20Web&ext=contest" alt="LeetCode Card" />
 </a>
 
 ---
