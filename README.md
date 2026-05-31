@@ -8,8 +8,8 @@
 </a>
 
 #### 💻 LeetCode Stats
-<a href="https://leetcode.com/u/LeonVir/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/LeonVir?theme=dark&font=Istok%20Web&ext=contest" alt="LeetCode Card" />
+<a href="https://leetcode.com/u/Dongmyung/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Dongmyung?theme=dark&font=Istok%20Web&ext=contest" alt="LeetCode Card" />
 </a>
 
 ---
