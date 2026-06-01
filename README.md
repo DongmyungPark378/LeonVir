@@ -12,13 +12,6 @@
   <img src="https://leetcard.jacoblin.cool/Dongmyung?theme=dark&font=Istok%20Web&ext=contest" alt="LeetCode Card" />
 </a>
 
-#### 🐙 GitHub Dynamic Metrics
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Dongmyung378?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Dongmyung378?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/Dongmyung378/NLP?label=NLP%20Repo%20Size&style=for-the-badge&color=211F1F&logo=github" alt="Repo Size" />
-</p>
-
 ---
 
 ### 🚀 About Me
