@@ -12,10 +12,14 @@
   <img src="https://leetcard.jacoblin.cool/Dongmyung?theme=dark&font=Istok%20Web&ext=contest" alt="LeetCode Card" />
 </a>
 
-#### 🐙 GitHub Overview
+#### 🐙 GitHub Dynamic Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dongmyung378&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongmyung378&layout=compact&theme=dark" alt="Top Langs" height="150" />
+  <a href="https://github.com/Dongmyung378">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dongmyung378&theme=dark" alt="GitHub Streak" height="150" />
+  </a>
+  <a href="https://github.com/Dongmyung378">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dongmyung378&theme=onedark&column=4&margin-w=15" alt="GitHub Trophies" height="150" />
+  </a>
 </p>
 
 ---
@@ -30,7 +34,27 @@
 
 ---
 
-### 🛠 Tech Stack
-* **Languages:** C++, Python
-* **Tools & Technologies:** Git, ROS (Robotics), PyTorch (AI), NumPy, Pandas, Scikit-learn
-* **CS Fundamentals:** Algorithms, Data Structures, Operating System
+### 🛠 Tech Stack & Ecosystem
+
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 🤖 AI & Robotics Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+#### ⚙️ Engineering & Core Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-4682B4?style=for-the-badge" />
+</p>
