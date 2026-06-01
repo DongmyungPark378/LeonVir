@@ -14,12 +14,9 @@
 
 #### 🐙 GitHub Dynamic Metrics
 <p align="left">
-  <a href="https://github.com/Dongmyung378">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dongmyung378&theme=dark" alt="GitHub Streak" height="150" />
-  </a>
-  <a href="https://github.com/Dongmyung378">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dongmyung378&theme=onedark&column=4&margin-w=15" alt="GitHub Trophies" height="150" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Dongmyung378?label=Followers&style=for-the-badge&color=211F1F&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dongmyung378?label=Total%20Stars&style=for-the-badge&color=211F1F&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/Dongmyung378/NLP?label=NLP%20Repo%20Size&style=for-the-badge&color=211F1F&logo=github" alt="Repo Size" />
 </p>
 
 ---
